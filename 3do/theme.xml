@@ -9,11 +9,11 @@
 		</image>
 
 		<image name="logo">
-			<path>./art/3do.svg</path>
+			<path>./art/3doTitle.png</path>
         </image>
 		
 		<helpsystem name="help">
-			<textColor>ffffff66</textColor>
+			<textColor>0000cc</textColor>
 			<iconColor>ffffff66</iconColor>
 		</helpsystem>
 		

@@ -23,7 +23,7 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/MicroTechnic.ttf</fontPath>
+			<fontPath>./art/eurostile.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<size>0.12 0.04</size>
 		</text>
@@ -31,7 +31,7 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount">
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/MicroTechnic.ttf</fontPath>
+			<fontPath>./art/eurostile.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<size>0.14 0.04</size>
 		</text>
@@ -39,14 +39,14 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_description">
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/MicroTechnic.ttf</fontPath>
+			<fontPath>./art/eurostile.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 		</text>
 		
 		<datetime name="md_releasedate, md_lastplayed">
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/MicroTechnic.ttf</fontPath>
+			<fontPath>./art/eurostile.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<size>0 0.04</size>
 		</datetime>
@@ -73,12 +73,12 @@ license:		creative commons CC-BY-NC-SA
 		</image> 
 
 		<textlist name="gamelist">
-			<selectorColor>393a3b</selectorColor>
-			<selectedColor>97999b</selectedColor>
+			<selectorColor>00ff00</selectorColor>
+			<selectedColor>0000ff</selectedColor>
 			<primaryColor>393a3b</primaryColor>
-			<secondaryColor>000000</secondaryColor>
+			<secondaryColor>cc0000</secondaryColor>
 			<fontPath>./art/eurostile.ttf</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.02</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<!-- <scrollSound>./art/sound.wav</scrollSound> -->
 		</textlist>

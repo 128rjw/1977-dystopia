@@ -26,7 +26,7 @@
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.01</pos>
-			<color>7b7d7f</color>
+			<color>ff00ff</color>
 			<fontPath>./../art/eurostile.ttf</fontPath>
 			<fontSize>0.055</fontSize>
 			<alignment>right</alignment>
@@ -37,8 +37,8 @@
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.07</pos>
-			<color>7b7d7f</color>
-			<fontPath>./../art/eurostile.ttf</fontPath>
+			<color>ff00ff</color>
+			<fontPath>./../art/ARCADECLASSIC.TTF</fontPath>
 			<fontSize>0.055</fontSize>
 			<alignment>right</alignment>
 		</text>
