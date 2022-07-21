@@ -77,7 +77,7 @@ license:		creative commons CC-BY-NC-SA
 			<selectedColor>97999b</selectedColor>
 			<primaryColor>393a3b</primaryColor>
 			<secondaryColor>000000</secondaryColor>
-			<fontPath>./art/OPENSANS.TTF</fontPath>
+			<fontPath>./art/eurostile.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<!-- <scrollSound>./art/sound.wav</scrollSound> -->
